@@ -67,5 +67,5 @@ async def text_to_binary(interaction: discord.Interaction, text: str):
 ## RUN 
 ####################################################################################################################################################################################
 
-TOKEN = 'MTI5MjQ3NjU0MDcwOTM3MTkyNA.GP4qB-.HpGwDOKbBYq_ZPWeR8GzpdW8ZdoPygaAzLKJcY'
+TOKEN = 'your token here'
 client.run(TOKEN)
